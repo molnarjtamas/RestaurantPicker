@@ -14,9 +14,3 @@ data class User(
 )
 
 
-//Name
-//• Profile pic
-//• Address
-//• Phone number
-//• Email
-//• List of Favourites restaurants
